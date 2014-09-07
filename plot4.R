@@ -1,5 +1,5 @@
-# install sql library
-#install.packages("sqldf")
+## install sql library
+install.packages("sqldf")
 library(sqldf)
 
 
